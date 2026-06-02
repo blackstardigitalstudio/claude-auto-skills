@@ -30,13 +30,13 @@ Place `CLAUDE.md` in your user-level Claude folder.
 ```bash
 # macOS / Linux
 mkdir -p ~/.claude
-curl -fsSL https://raw.githubusercontent.com/USER/REPO/main/CLAUDE.md -o ~/.claude/CLAUDE.md
+curl -fsSL https://raw.githubusercontent.com/blackstardigitalstudio/claude-auto-skills/main/CLAUDE.md -o ~/.claude/CLAUDE.md
 ```
 
 ```cmd
 :: Windows
 mkdir "%USERPROFILE%\.claude"
-curl -fsSL https://raw.githubusercontent.com/USER/REPO/main/CLAUDE.md -o "%USERPROFILE%\.claude\CLAUDE.md"
+curl -fsSL https://raw.githubusercontent.com/blackstardigitalstudio/claude-auto-skills/main/CLAUDE.md -o "%USERPROFILE%\.claude\CLAUDE.md"
 ```
 
 > If you already have a `CLAUDE.md`, **append** this content to it instead of
